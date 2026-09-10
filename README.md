@@ -1,2 +1,2 @@
-# bsta374-mase24
-first attempt here
+# bsta374-mase324
+attempt learning github now
